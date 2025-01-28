@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2323f2571928f434293c96956175cc2a, type: 3}
+  m_Name: Makarov
+  m_EditorClassIdentifier: 
+  itemName: Makarov
+  itemType: 1
+  maxCount: 1
+  icon: {fileID: 21300000, guid: 1b4696d341b6ec443b4e499361de0675, type: 3}
+  itemDescription: 
+  bullet: {fileID: 0}
+  shotPoint: {fileID: 0}
+  damage: 0
+  timeBtwShoots: 0
+  startTimeBtwShoots: 0

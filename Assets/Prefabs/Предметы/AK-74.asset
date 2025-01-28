@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2323f2571928f434293c96956175cc2a, type: 3}
+  m_Name: AK-74
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemType: 1
+  maxCount: 0
+  icon: {fileID: 21300000, guid: 6532bc2c52f179142a7333cc0f5faeda, type: 3}
+  itemDescription: 
+  bullet: {fileID: 910379212036312635, guid: e99dab28d88148e45afedc109fbeb9aa, type: 3}
+  shotPoint: {fileID: 7242670827564821424, guid: 301f42013b452544a8fb206710e11379, type: 3}
+  damage: 10
+  timeBtwShoots: 0
+  startTimeBtwShoots: 0
